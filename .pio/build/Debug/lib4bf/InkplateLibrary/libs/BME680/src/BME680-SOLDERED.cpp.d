@@ -1,0 +1,2 @@
+.pio/build/Debug/lib4bf/InkplateLibrary/libs/BME680/src/BME680-SOLDERED.cpp.o: \
+ .pio/libdeps/Debug/InkplateLibrary/src/libs/BME680/src/BME680-SOLDERED.cpp
